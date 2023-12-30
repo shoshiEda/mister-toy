@@ -1,5 +1,10 @@
 [
   {
+    "name": "gvytg",
+    "price": 12,
+    "_id": "EWlYx"
+  },
+  {
     "name": "Bruklin barbie",
     "price": 55,
     "_id": "SfvdZ",
@@ -103,16 +108,5 @@
     "createdAt": 1631031801011,
     "inStock": true,
     "url": "./assets/img/9.jpeg"
-  },
-  {
-    "_id": "t110",
-    "name": "Baby university",
-    "price": 199,
-    "labels": [
-      "Baby"
-    ],
-    "createdAt": 1631031801011,
-    "inStock": true,
-    "url": "./assets/img/10.jpeg"
   }
 ]
